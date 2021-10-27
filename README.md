@@ -33,6 +33,7 @@
   <a href="https://code.visualstudio.com" target="_blank"> 
     <img alt="vscode" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg">
   </a>
+  &emsp;
   <a href="https://sublimetext.com" target="_blank"> 
     <img alt="sublime" width="30px" src="https://cdn.worldvectorlogo.com/logos/sublime-text.svg">
   </a>
