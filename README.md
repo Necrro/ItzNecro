@@ -5,6 +5,6 @@
 ![](https://github.com/ItzNecro/github-stats/blob/master/generated/languages.svg)
 
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ItzNecro&layout=compact&theme=tokyonight)]
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ItzNecro&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
  
