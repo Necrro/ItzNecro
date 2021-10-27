@@ -1,4 +1,4 @@
-![Necro's GitHub stats](https://github-readme-stats.vercel.app/api?username=ItzNecro&show_icons=true&theme=tokyonight)
+![Necro's GitHub stats](https://github-readme-stats.vercel.app/api?username=ItzNecro&show_icons=true&theme=tokyonight&count_private=true)
 
 
 
