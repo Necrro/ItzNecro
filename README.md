@@ -10,7 +10,7 @@
 
 <p align="left"> 
   &emsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+  <a href="https://www.javascript.com" target="_blank"> 
      <img alt="JavaScript" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg">
    </a>
   &emsp;
