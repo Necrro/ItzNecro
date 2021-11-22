@@ -5,7 +5,7 @@
 
 
 
-### **Languages i used**
+### **Programming Languages i used**
 
 
 <p align="left"> 
