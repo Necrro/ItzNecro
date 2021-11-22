@@ -5,7 +5,7 @@
 
 
 
-### **Languages**
+### **Languages i used**
 
 
 <p align="left"> 
@@ -21,7 +21,7 @@
 
 
 
-### **Tools**    
+### **Tools i used**    
 
 
 <p align="left"> 
