@@ -3,6 +3,8 @@
 
 [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ItzNecro&layout=compact&theme=tokyonight&count_private=true)](https://github.com/ItzNecro/)
 
+[![Most Used Languages](https://api.necro.ml/api/top-langs/?username=ItzNecro&layout=compact&theme=tokyonight&count_private=true)](https://github.com/ItzNecro/)
+
 
 
 ### **Programming Languages i used**
