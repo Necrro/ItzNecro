@@ -1,6 +1,6 @@
 ![Necro's GitHub stats](https://github-readme-stats.vercel.app/api?username=ItzNecro&show_icons=true&theme=tokyonight&count_private=true)
 
-[![Most Used Languages](https://api.necro.ml/api/top-langs/?username=ItzNecro&layout=compact&theme=tokyonight&count_private=true)](https://github.com/ItzNecro/)
+[![Most Used Languages](https://api.necro.ml/api/top-langs/?username=ItzNecro&layout=compact&theme=tokyonight)](https://github.com/ItzNecro/)
 
 
 
