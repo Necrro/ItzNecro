@@ -1,6 +1,6 @@
 Currently learning Java, C#, Go, JavaScript, HTML, CSS, PHP
 
-Most of my repository are private
+Most of my repositories are private
 
 ![](https://komarev.com/ghpvc/?username=Necrro&color=blueviolet)
 
