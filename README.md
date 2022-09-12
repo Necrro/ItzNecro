@@ -1,5 +1,7 @@
 Currently learning Java, C#, Go, JavaScript, HTML, CSS, PHP
 
+Most of my repository are private
+
 ![](https://komarev.com/ghpvc/?username=Necrro&color=blueviolet)
 
 [![State-of-the-art Shitcode](https://img.shields.io/static/v1?label=State-of-the-art&message=Shitcode&color=7B5804)](https://github.com/trekhleb/state-of-the-art-shitcode)
