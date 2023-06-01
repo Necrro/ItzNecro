@@ -1,4 +1,4 @@
-Currently learning Java, C#, Go, JavaScript, HTML, CSS, PHP
+Java, JavaScript, C#, C++, Python, Go, HTML, CSS, PHP
 
 Most of my repositories are private
 
