@@ -1,4 +1,4 @@
-Java, JavaScript, C#, C++, Python, Go, HTML, CSS, PHP
+Java, JavaScript, C#, C++, Python, Go
 
 Most of my repositories are private
 
